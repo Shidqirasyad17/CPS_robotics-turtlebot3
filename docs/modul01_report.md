@@ -2,7 +2,9 @@
 # Laporan Praktikum Modul 1
 
 **Nama:** Shidqi Rasyad Firjatulah
+
 **NIM:** 2408156
+
 **Kelas:** Ilmu Komputer C1 - 2024 
 
 ## Deskripsi Praktikum
